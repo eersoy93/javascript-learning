@@ -1,6 +1,6 @@
 "use strict";
 
-import Person from "./person.js";
+import { Person } from "./person.js";
 
 let x = new Person("Erdem", 29, 999999);
 
