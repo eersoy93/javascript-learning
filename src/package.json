@@ -1,0 +1,12 @@
+{
+  "name": "src",
+  "version": "0.0.1",
+  "description": "My JavaScript re-learning sources package",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erdem Ersoy (eersoy93)",
+  "license": "CC0-1.0"
+}
