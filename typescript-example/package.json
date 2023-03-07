@@ -1,0 +1,16 @@
+{
+  "name": "typescript-example",
+  "version": "0.0.1",
+  "description": "An example typescript project.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node output/index.js"
+  },
+  "author": "Erdem Ersoy (eersoy93)",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "typescript": "^4.9.5"
+  }
+}
